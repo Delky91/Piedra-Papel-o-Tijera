@@ -19,10 +19,10 @@ Asegúrate de tener instalada una versión de Ruby compatible. Este programa fue
 git clone https://github.com/tu-usuario/juego-piedra-papel-tijeras.git
 ```
 
-2. Navega hasta el directorio del proyecto:
+2. Dentro del DIrectorio navega hasta la carpeta DesafioRoR:
 
 ```bash
-cd juego-piedra-papel-tijeras
+cd DesafioRoR
 ```
 
 3. Ejecuta el juego con tu elección como argumento:
