@@ -2,6 +2,10 @@
 
 Este es un simple programa en Ruby que implementa el juego de Piedra, Papel o Tijeras. El usuario podrá ingresar su elección como argumento al ejecutar el programa, y la computadora elegirá aleatoriamente su jugada. Luego, se determinará si el usuario ganó, perdió o empató.
 
+# Author
+
+Luis Miño Bustos
+
 ## Requisitos previos
 
 Antes de ejecutar este programa, asegúrate de tener Ruby instalado en tu máquina. Si no tienes Ruby instalado, puedes seguir estas instrucciones para instalarlo:
